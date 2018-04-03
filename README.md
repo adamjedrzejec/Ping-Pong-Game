@@ -3,6 +3,8 @@ Ping pong game made in Python as a second serious project in my programming jour
 
 It's a game for 2 people.
 
+
+
 Controls for the first player:
 w, s - moving up and down
 
